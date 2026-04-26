@@ -1,0 +1,1 @@
+# KAS (not bitbake directly) — when + why

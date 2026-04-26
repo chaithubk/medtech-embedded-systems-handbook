@@ -1,0 +1,1 @@
+# Applying INSPIRED to medical devices

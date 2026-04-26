@@ -1,0 +1,1 @@
+# Essential tools: KAS, Docker, Qt Creator, etc.

@@ -1,0 +1,1 @@
+# Why single-writer per shared resource matters (safety)

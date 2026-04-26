@@ -1,0 +1,1 @@
+# Managing .wic images, Docker images, binaries

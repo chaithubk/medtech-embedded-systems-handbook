@@ -1,0 +1,1 @@
+# MQTT vs REST vs CoAP; why MQTT for medical?

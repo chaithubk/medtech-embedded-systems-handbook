@@ -1,0 +1,1 @@
+# TPM2, secure boot, read-only rootfs

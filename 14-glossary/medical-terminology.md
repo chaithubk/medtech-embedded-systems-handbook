@@ -1,0 +1,1 @@
+# HR, SpO2, qSOFA, SOFA, lactate, etc.

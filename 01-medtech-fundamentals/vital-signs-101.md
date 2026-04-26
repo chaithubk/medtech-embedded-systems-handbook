@@ -1,0 +1,1 @@
+# HR, BP, O2, Temp, RR — what they mean clinically

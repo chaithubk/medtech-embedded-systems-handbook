@@ -1,0 +1,1 @@
+# Shared memory vs message queues vs REST; trade-offs

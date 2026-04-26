@@ -1,0 +1,1 @@
+# ASTM standards for device validation

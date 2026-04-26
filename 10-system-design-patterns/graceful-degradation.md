@@ -1,0 +1,1 @@
+# Device keeps working even if features fail

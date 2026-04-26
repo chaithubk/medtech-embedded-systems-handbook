@@ -1,0 +1,1 @@
+# Running Qt apps on framebuffer (embedded screens)

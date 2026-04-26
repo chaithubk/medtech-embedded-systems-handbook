@@ -1,0 +1,1 @@
+# OTA? No—manual, audited updates only

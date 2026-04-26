@@ -1,0 +1,1 @@
+# Why Qt for medical UIs (not web, not Flutter)

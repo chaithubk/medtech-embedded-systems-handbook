@@ -1,0 +1,1 @@
+# Medical devices need determinism, not RT Linux
